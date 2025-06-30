@@ -7,3 +7,5 @@ This is a general pipeline to do validation for functional genes of interested d
 3. Subset WES plink file of target genes of case and control groups, + - 1MB for each gene.
 4. Association analysis for snps to see if they are different between case and control.
 5. Function analysis, like eQTL, kept empty here.
+
+![img](https://github.com/Ermineyo/UKBB/blob/main/Find_WES_snp_case_control/img/pipeline_yanbing.png)
